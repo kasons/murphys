@@ -1,0 +1,32 @@
+.ui.borderless.topmenu.container.menu {
+  box-shadow: none;
+  border: none;
+}
+
+#middlePicture {
+  width: 100%;
+  background-image: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg);
+  min-height: 427px;
+}
+
+p{
+  text-align: center;
+  font-family: Arial;
+  color: white;
+  font-size: 16px;
+  padding-top: 100px;
+}
+
+.ui.three.column.grid.container {
+  color: white;
+  background-color: darkgreen;
+  width: 100%;
+  margin-top: 1px;
+}
+
+#footer {
+  background-color: darkgreen;
+  width: 100%;
+}
+
+
